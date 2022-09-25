@@ -5,6 +5,5 @@ public class Main {
         System.out.println("Virk ordenligt GitHub");
         System.out.println("Det virker måske nu!");
         System.out.println("Ny Linje");
-        System.out.println("Endnu en ny linje");
     }
 }

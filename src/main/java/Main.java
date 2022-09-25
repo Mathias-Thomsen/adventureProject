@@ -10,5 +10,7 @@ public class Main {
         System.out.println("Commit haha");
         System.out.println("test ");
         System.out.println("Fetch ");
+
+        System.out.println("Så laver vi sku lige en commit igen ");
     }
 }

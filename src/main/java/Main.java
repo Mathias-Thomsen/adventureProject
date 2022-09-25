@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Ny Linje");
         System.out.println("jeg commiter lige igen ");
         System.out.println("Commit haha");
+        System.out.println("test ");
     }
 }

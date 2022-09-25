@@ -11,5 +11,6 @@ public class Main {
         System.out.println("test ");
         System.out.println("Fetch ");
         System.out.println("første");
+        System.out.println("anden");
     }
 }

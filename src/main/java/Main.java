@@ -16,5 +16,6 @@ public class Main {
 
         System.out.println("Så laver vi sku lige en commit igen ");
         System.out.println("HAHAHAH");
+        System.out.println("HAHAHHAHAH igen");
     }
 }
